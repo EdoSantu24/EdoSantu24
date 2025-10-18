@@ -12,7 +12,6 @@ I am actively seeking a Student Assistant position in Copenhagen where I can app
 * **Programming Languages:** C/C++ (Proficient), Python (Intermediate)
 * **Networking & Security:** Network Security, Software-Defined Networking (SDN), Network Virtualization (Linux Namespaces), Packet Analysis (Wireshark, tcpdump)
 * **Platforms & OS:** Linux, Windows/MacOS
-* **Hardware Description:** VHDL
 
 ---
 
