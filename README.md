@@ -2,7 +2,7 @@
 
 I am a Master's student in **Communication Technologies and System Design** at DTU, specializing in **Cloud and CyberSecurity**. Building on a background in Electronics and Telecommunications Engineering, my primary focus is on designing and securing robust network and cloud infrastructures. My academic projects have provided hands-on experience in cloud deployment, network security practices, Software-Defined Networking (SDN), and IoT development.
 
-I am driven by the challenge of solving complex technical problems and am actively seeking a Student Assistant position in Copenhagen where I can apply my skills in a real-world setting.
+I am actively seeking a Student Assistant position in Copenhagen where I can apply my skills in a real-world setting.
 
 ---
 
