@@ -1,25 +1,15 @@
-# Hi, I'm Edoardo Santucci
+# Hi, I'm Edoardo 
 
-I am a Master's student in **Communication Technologies and System Design** at DTU, specializing in **Cloud and CyberSecurity**. Building on a background in Electronics and Telecommunications Engineering, my primary focus is on designing and securing robust network and cloud infrastructures. My academic projects have provided hands-on experience in cloud deployment, network security practices, Software-Defined Networking (SDN), and IoT development.
-
-I am actively seeking a Student Assistant position in Copenhagen where I can apply my skills in a real-world setting.
+I am a Master's student in **Communication Technologies and System Design** at DTU, specializing in **Cloud and CyberSecurity**. My academic projects have provided hands-on experience in cloud deployment, network security practices, Software-Defined Networking (SDN), and IoT development.
 
 ---
 
 ### Technologies & Skills
 
-* **Cloud & DevOps:** Microsoft Azure (AZ-900 Certified), Docker, Kubernetes, Virtualization (VMs, Virtual Networks)
-* **Programming Languages:** C/C++ (Proficient), Python (Intermediate)
+* **Cloud, Security & DevOps:** Microsoft Azure (AZ-900 Certified) Microsoft Security (SC-900 Certified), Docker, Kubernetes, Virtualization (VMs, Virtual Networks)
+* **Programming Languages:** C/C++ (Proficient), Python (Intermediate), Powershell, bash
 * **Networking & Security:** Network Security, Software-Defined Networking (SDN), Network Virtualization (Linux Namespaces), Packet Analysis (Wireshark, tcpdump)
-* **Platforms & OS:** Linux, Windows/MacOS
-
----
-
-### My Current Focus
-
-* Deepening my practical knowledge of cloud infrastructure and security principles within **Azure** and other major cloud platforms.
-* Currently pursuing the Microsoft Azure Data Fundamentals (DP-900) certification to strengthen my knowledge of cloud data services.
-* Actively working on academic projects involving **Communication Network Security**, Machine Learning, and IoT prototyping.
+* **Platforms & OS:** Linux, Windows
 
 ---
 
