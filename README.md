@@ -7,7 +7,7 @@ I am a Master's student in **Communication Technologies and System Design** at D
 ### Technologies & Skills
 
 * **Cloud, Security & DevOps:** Microsoft Azure (AZ-900 Certified) Microsoft Security (SC-900 Certified), Docker, Kubernetes, Virtualization (VMs, Virtual Networks)
-* **AI: ** completed several courses from Anthropic academy: Claude 101, Claude Code in action, Building with the Claude API, Introduction to MCP, Introduction to agent skills, Introduction to Claude Cowork
+* **AI:** completed several courses from Anthropic academy: Claude 101, Claude Code in action, Building with the Claude API, Introduction to MCP, Introduction to agent skills, Introduction to Claude Cowork
 * **Programming Languages:** C/C++ (Proficient), Python (Intermediate), Powershell, bash
 * **Networking & Security:** Network Security, Software-Defined Networking (SDN), Network Virtualization (Linux Namespaces), Packet Analysis (Wireshark, tcpdump)
 * **Platforms & OS:** Linux, Windows
